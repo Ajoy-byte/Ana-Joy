@@ -1,0 +1,6 @@
+{
+  "name": "Vellum & Thread",
+  "description": "A premium, minimalist clothing brand experience with AI-powered styling advice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
